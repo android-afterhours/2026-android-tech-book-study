@@ -16,4 +16,4 @@
 | | | | |
 |:---:|:---:|:---:|:---:|
 |<img src="https://avatars.githubusercontent.com/u/54509842?v=4" width=300>|<img src="https://avatars.githubusercontent.com/u/68090939?v=4" width=300>|<img src="https://avatars.githubusercontent.com/u/76458724?v=4" width=300>|<img src="https://avatars.githubusercontent.com/u/70648111?v=4" width=300>|
-|**이석규**<br/>@likppi10|**이하은**<br/>@leeeha|**이수진**<br/>@tnwlsgk1002|**김준우**<br/>@IslandofDream]
+|**이석규**<br/>@likppi10|**이하은**<br/>@leeeha|**이수진**<br/>@tnwlsgk1002|**김준우**<br/>@IslandofDream|
